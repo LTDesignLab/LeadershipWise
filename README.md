@@ -1,4 +1,4 @@
-# hatchways-assessment
+# Leadershipwise
 
 ## Project setup
 ```
